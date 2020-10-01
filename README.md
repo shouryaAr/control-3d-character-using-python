@@ -24,7 +24,7 @@
 
 
 ## - About :
-<p>it's a python script to control a 3d character's face movements by capturing user's face landmarks </p>
+<p>It's a python program to control a 3d character's face movements by capturing user's face landmarks </p>
 
 ## - Install prerequisites :
 
@@ -40,14 +40,14 @@
  
  
  ## - Youtube Video : 
- in this tuto i explained how the script works and i will walk you through the Installation process
- Check Out Youtube Tuto : https://youtu.be/tEmdLULBUTQ
+ In this tutorial I explained how the script works and I will walk you through the Installation process
+ check out My Youtube tutorial : https://youtu.be/tEmdLULBUTQ
  
 
 ## - License :
 [![HitCount](http://hits.dwyl.com/joeVenner/control-3d-character-using-python.svg)](http://hits.dwyl.com/joeVenner/control-3d-character-using-python)
 
-Please see the **[LICENSE](LICENSE)** included in this repository for a full copy of the MIT license, which this project is licensed under.
+Please see the **[LICENSE](LICENSE)** included in this repository for a full copy of the MIT license, under which this project is licensed.
  
 
 
